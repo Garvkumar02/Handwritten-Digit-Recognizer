@@ -123,6 +123,6 @@ python train_model.py
 
 <br>
 <div align="center">
-  <i>Created with ❤️</i>
+  <i>Created with ❤️ and AI.</i>
 </div>
 
