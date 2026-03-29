@@ -1,0 +1,23 @@
+{
+  "test_accuracy": 0.996399998664856,
+  "test_loss": 0.511838436126709,
+  "best_val_acc": 0.9963333606719971,
+  "epochs_trained": 30,
+  "architecture": {
+    "blocks": 3,
+    "filters": [
+      32,
+      64,
+      128
+    ],
+    "dense_units": 256,
+    "dropout_rates": [
+      0.25,
+      0.25,
+      0.4,
+      0.5
+    ],
+    "optimizer": "Adam",
+    "label_smoothing": 0.1
+  }
+}
